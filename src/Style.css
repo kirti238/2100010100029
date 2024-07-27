@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
